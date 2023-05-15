@@ -1,5 +1,5 @@
-const greeting = (a, b) => {
+const hello = (a, b) => {
      return a + b
 } 
 
-greeting(50, 50)
+hello(50, 50)
